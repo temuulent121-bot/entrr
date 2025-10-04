@@ -76,10 +76,10 @@ body {
 }
 
 .words.line1 {
-  left: 70%;
+  left: 75%;
   top: 50%;
-  width: 20%;
-  height: 10%;
+  width: 23%;
+  height: 21%;
   font-size: 0.9rem;
 }
 
@@ -287,9 +287,9 @@ body {
 .gift-photo {
   position: absolute;     
   right: 30%;         
-  bottom: 0;
+  bottom: -10px;
   transform: translateX(-50%);
-  width: 100px;
+  width: 130px;
   height: auto;
   border: 2px solid #ff69b4;
   border-radius: 10px;
