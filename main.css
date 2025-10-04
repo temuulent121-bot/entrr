@@ -1,0 +1,14 @@
+.header{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.mt-5{
+    margin-top: 5px;
+}
+.red{
+    color: green;
+}
